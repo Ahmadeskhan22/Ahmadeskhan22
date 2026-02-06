@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Ahmad Mohammad.</h1>
 
-<p>Welcome to my profile! I am a <b>Computer Science student</b> Software Developer based in <b>Jordan</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/>. </br> 
+<p>Welcome to my profile! I am a <b>Computer Science student</b>a passionate Software Developer. </br> 
 I specialize in building cross-platform mobile applications with <b>Flutter</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.</p>
 
 <h3>Tech Stack & Skills</h3>
@@ -44,24 +44,4 @@ I specialize in building cross-platform mobile applications with <b>Flutter</b> 
   </tbody>
 </table>
 
-<h3>Personal Interests</h3>
-<ul>
-  <li><b>Problem Solving:</b> Active in competitive programming using C++.</li>
-  <li><b>UI/UX Design:</b> Interested in creating clean designs with Figma.</li>
-  <li><b>Backend Development:</b> Currently expanding into Node.js and Python backend systems.</li>
-</ul>
-
-<h3>Connect with me</h3>
-<p>
-  <a href="https://github.com/AhmadMohammad2200901105" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" target="_blank">
-    <img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-<p align="center">
-  <i>"Passionate about building efficient code and meaningful user experiences."</i>
-</p>
+<h3>Connect with
