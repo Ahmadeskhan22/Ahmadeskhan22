@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=120&section=header&text=Ahmad%20Mohammad&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=120&section=header&text=Ahmad%20Eskhan&fontSize=50&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   Welcome to my profile! I am a <b>Computer Science student</b> and a passionate Software Developer. <br>
-  I specialize in building cross-platform mobile applications with <b>Flutter</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.
+  I specialize in building cross-platform mobile applications with <b>Flutter</b> and  <b>backend by Nodejs</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.
 </p>
 
 ---
@@ -22,14 +22,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=1000&lines=Flutter+%E2%80%A2+Dart+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+PHP+%E2%80%A2+Oracle+%E2%80%A2+Git" alt="Scrolling Skills" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadeskhan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadeskhan22&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
