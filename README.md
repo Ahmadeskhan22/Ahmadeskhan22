@@ -46,6 +46,13 @@
       <td>Collaborative project for book management and organization.</td>
       <td>Flutter, Dart, Git</td>
     </tr>
+     <tr>
+      <td><b>Live weather</b></td>
+      <td> A small project for test API</td>
+      <td>Flutter, Dart, API</td>
+    </tr>
+
+    
   </tbody>
 </table>
 
