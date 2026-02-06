@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Ahmad Mohammad.</h1>
 
-<p>Welcome to my profile! I am a <b>Computer Science student</b>a passionate Software Developer. </br> 
+<p>Welcome to my profile! I am a <b>Computer Science student</b> (ID: 2200901105) and a passionate Software Developer. </br> 
 I specialize in building cross-platform mobile applications with <b>Flutter</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.</p>
 
 <h3>Tech Stack & Skills</h3>
@@ -44,4 +44,26 @@ I specialize in building cross-platform mobile applications with <b>Flutter</b> 
   </tbody>
 </table>
 
-<h3>Connect with
+<h3>Connect with me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ahmad-eskhan-2641b5286/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ahmadeskhan22" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ahmad.eskhan" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-B11717?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ahmadmohmmaf_am1" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ahmadeskhan22/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
+<hr>
+<p align="center">
+  <i>"Passionate about building efficient code and meaningful user experiences."</i>
+</p>
