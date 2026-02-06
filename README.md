@@ -1,33 +1,46 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Ahmad Mohammad.</h1>
-
-<p>Welcome to my profile! I am a <b>Computer Science student</b> (ID: 2200901105) and a passionate Software Developer. </br> 
-I specialize in building cross-platform mobile applications with <b>Flutter</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.</p>
-
-<h3>Tech Stack & Skills</h3>
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Cursor AI" src="https://img.shields.io/badge/-Cursor_AI-5849BE?style=flat-square&logo=cursor&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=120&section=header&text=Ahmad%20Mohammad&fontSize=50&animation=fadeIn" width="100%"/>
 </p>
 
-<h3>Featured Projects</h3>
-<table>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+Developer;Problem+Solver;CS+Student;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  Welcome to my profile! I am a <b>Computer Science student</b> and a passionate Software Developer. <br>
+  I specialize in building cross-platform mobile applications with <b>Flutter</b> and enjoy tackling complex challenges through <b>Competitive Programming</b>.
+</p>
+
+---
+
+### 🛠 Floating Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,js,php,mysql,oracle,git,vscode,github,nodejs,firebase&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=1000&lines=Flutter+%E2%80%A2+Dart+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+PHP+%E2%80%A2+Oracle+%E2%80%A2+Git" alt="Scrolling Skills" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadeskhan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadeskhan22&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+<table align="center">
   <thead align="center">
     <tr>
-      <td><b>🚀 Project</b></td>
-      <td><b>📝 Description</b></td>
-      <td><b>🛠 Tech Stack</b></td>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+      <td><b>Tech Stack</b></td>
     </tr>
   </thead>
   <tbody>
@@ -44,8 +57,10 @@ I specialize in building cross-platform mobile applications with <b>Flutter</b> 
   </tbody>
 </table>
 
-<h3>Connect with me</h3>
-<p>
+---
+
+### 🔗 Connect with me
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmad-eskhan-2641b5286/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -63,7 +78,6 @@ I specialize in building cross-platform mobile applications with <b>Flutter</b> 
   </a>
 </p>
 
-<hr>
 <p align="center">
-  <i>"Passionate about building efficient code and meaningful user experiences."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%"/>
 </p>
