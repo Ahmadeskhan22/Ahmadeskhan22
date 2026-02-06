@@ -39,7 +39,7 @@
     <tr>
       <td><b>Tamkeen</b></td>
       <td>Graduation Project: A governmental & charitable platform for education.</td>
-      <td>Flutter, Firebase, Dart</td>
+      <td>Flutter, API,Nodejs, Dart</td>
     </tr>
     <tr>
       <td><b>Uin book</b></td>
