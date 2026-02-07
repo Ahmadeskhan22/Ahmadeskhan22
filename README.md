@@ -38,7 +38,7 @@
   <tbody>
     <tr>
       <td><b>Tamkeen</b></td>
-      <td>Graduation Project: A governmental & charitable platform for education.</td>
+      <td> A governmental & charitable platform for education.</td>
       <td>Flutter, API,Nodejs, Dart</td>
     </tr>
     <tr>
