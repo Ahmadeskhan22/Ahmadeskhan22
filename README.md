@@ -57,6 +57,13 @@
                   <td>Node.js, mongodb,css,html </td>
     </tr>
 
+
+    </tr>
+    <tr>
+      <td> <b>Ajeer </b></td>
+            <td>Ajeer is a synchronized web and mobile ecosystem built to streamline part-time and temporary hiring</td>
+                  <td>Dart,API,PHP,CSS,HTML,Bootstrap,Mysql,jwt,Laravel,Flutter,Sanctum </td>
+    </tr>
     
   </tbody>
 </table>
