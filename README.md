@@ -58,7 +58,7 @@
     </tr>
 </tr>
 <tr>
-  <td> <b>Ajeer </b></td>
+  <td> <b>Ajeer(Graduation project)</b></td>
         <td>Ajeer is a synchronized web and mobile ecosystem built to streamline part-time and temporary hiring</td>
               <td>Dart,API,PHP,CSS,HTML,Bootstrap,Mysql,jwt,Laravel,Flutter,Sanctum </td>
 </tr>
